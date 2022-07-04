@@ -15,7 +15,15 @@ Most domain adaptation (DA) methods in cross-scene hyperspectral image classific
 Please cite our paper if you find the code or dataset useful for your research.
 
 ```
-@ARTICLE{9812472,  author={Zhang, Yuxiang and Li, Wei and Zhang, Mengmeng and Wang, Shuai and Tao, Ran and Du, Qian},  journal={IEEE Transactions on Neural Networks and Learning Systems},   title={Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification},   year={2022},  volume={},  number={},  pages={1-14},  doi={10.1109/TNNLS.2022.3185795}}
+@ARTICLE{9812472,  
+  author={Zhang, Yuxiang and Li, Wei and Zhang, Mengmeng and Wang, Shuai and Tao, Ran and Du, Qian},  
+  journal={IEEE Transactions on Neural Networks and Learning Systems},   
+  title={Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification},  
+  year={2022},  
+  volume={},  
+  number={},  
+  pages={1-14},  
+  doi={10.1109/TNNLS.2022.3185795}}
 ```
 
 ## Requirements
