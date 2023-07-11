@@ -1,5 +1,10 @@
 # Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification
 
+## Update 07/2023: Gia-CFSL won the Highly Cited Paper.
+<p align='center'>
+  <img src='figure/ESI.png' width="800px">
+</p>
+
 Code for the paper: [Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/9812472).
 
 <p align='center'>
